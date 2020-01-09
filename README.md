@@ -1,5 +1,5 @@
 # Analog Projects
-Please refer to the PDF files for transmitter and audio amplifier to view full report of the designs.
+Please refer to the PDF files for transmitter and audio amplifier to view full reports of the designs.
 
 -18MHz Deadbug Transmitter Prototype
 ![alt text](https://raw.githubusercontent.com/16oh4/Analog/master/am.PNG)
